@@ -14,7 +14,3 @@ The Rent-a-Bike app is a mobile application built using the Flutter framework. I
 
 To run the Rent-a-Bike app, follow these steps:
 
-1. Clone the repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/your_username/rent_a_bike.git
