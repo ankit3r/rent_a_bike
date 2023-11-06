@@ -1,16 +1,20 @@
-# rent_a_bike
+# Rent-a-Bike App
 
-A new Flutter project.
+The Rent-a-Bike app is a mobile application built using the Flutter framework. It allows users to rent bikes and manage their rentals conveniently. This README provides information about the app's functionalities and how to use and contribute to the project.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User authentication and registration
+- Browse available bikes for rent
+- Rent bikes for a specified duration
+- Track ongoing and previous rentals
+- Manage user profile and settings
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run the Rent-a-Bike app, follow these steps:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/your_username/rent_a_bike.git
